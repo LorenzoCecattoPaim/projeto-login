@@ -35,6 +35,9 @@ article{
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px rgba(0, 0, 0, 0.477);
+
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
 }
 #foto{
     background:var(--cor1) url(../Imagens/pexels-sean-whang-25006-804269.jpg) no-repeat;
