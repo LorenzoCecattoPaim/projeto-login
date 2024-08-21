@@ -49,10 +49,13 @@ article{
 #Login{
     display: block;
     padding: 10px;
-    text-indent: 8px;
+    text-indent: 0px;
     text-align: justify;
 }
 h1{
     text-align: center;
     padding-bottom: 9px;
+}
+div p {
+    font-size: 0.9em;
 }
