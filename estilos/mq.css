@@ -8,6 +8,7 @@
     }
     article{
         width: 80dvw;
+        height: 300px;
     }
 
     #foto{
@@ -28,6 +29,7 @@
     }
     article{
         width: 950px;
+        height: 400px;
     }
     #foto{
         float: right;
